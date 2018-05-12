@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Welcome to SSRFREE
 
-You can use the [editor on GitHub](https://github.com/liuran001/ssr/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 公告
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+网站公测中
 
-### Markdown
+### FBI WARNING
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+本站提供的所有信息仅供研究交流使用，请勿用于非法用途，请在使用本网站资源的24小时内关闭并删除
+本站不提供任何资源，所有节点来源于互联网（侵删）
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### 最新测试SSR可用节点（5月12日）
 
-- Bulleted
-- List
+ssr://MjEzLjE4My40NS4xNTE6MTAwODY6YXV0aF9zaGExX3Y0OmNoYWNoYTIwOnRsczEuMl90aWNrZXRfYXV0aDpTekk1TjJnMVdqYy8_JnJlbWFya3M9NUwrRTU3Mlg1cGF2TVRyb2daVHBnSnJucDd2bGlxanBxNWpwZ0o4Jmdyb3VwPWMzQmxaV1IzYkd0cQ
 
-1. Numbered
-2. List
+ssr://MTQwLjIyNy41Mi44NDoxMDA4NjphdXRoX3NoYTFfdjQ6Y2hhY2hhMjA6dGxzMS4yX3RpY2tldF9hdXRoOlN6STVOMmcxV2pjLz8mcmVtYXJrcz1Wa2xRNXBlbDVweXNNVHJrdUlubnZaSHBxNWpwZ0o4Jmdyb3VwPWMzQmxaV1IzYkd0cQ
 
-**Bold** and _Italic_ and `Code` text
+ssr://MjAyLjgxLjI0Mi44NToxMDA4NjphdXRoX3NoYTFfdjQ6Y2hhY2hhMjA6dGxzMS4yX3RpY2tldF9hdXRoOlN6STVOMmcxV2pjLz8mcmVtYXJrcz1Wa2xRNmFhWjVyaXZNVHJubExYa3Y2SG5wN3ZsaXFqcHE1anBnSjgmZ3JvdXA9YzNCbFpXUjNiR3Rx
 
-[Link](url) and ![Image](src)
-```
+ssr://ODguMTk4LjgyLjEzNDoxMDA4NjphdXRoX3NoYTFfdjQ6Y2hhY2hhMjA6dGxzMS4yX3RpY2tldF9hdXRoOlN6STVOMmcxV2pjLz8mcmVtYXJrcz01YjYzNVp1OU1qcm5sTFhrdjZIbnA3dmxpcWpwcTVqcGdKOCZncm91cD1jM0JsWldSM2JHdHE
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ssr://MTA3LjE2Ny4yLjIxOjEwMDg2OmF1dGhfc2hhMV92NDpjaGFjaGEyMDp0bHMxLjJfdGlja2V0X2F1dGg6U3pJNU4yZzFXamMvPyZyZW1hcmtzPVZrbFE1NzZPNVp1OU1qcm5sTFhrdjZGRFRqTG9nWlRwZ0pycHE1anBnSjgmZ3JvdXA9YzNCbFpXUjNiR3Rx
 
-### Jekyll Themes
+ssr://MTQ2LjE5Ni42Ny4yMTY6MTAwODY6YXV0aF9zaGExX3Y0OmNoYWNoYTIwOnRsczEuMl90aWNrZXRfYXV0aDpTekk1TjJnMVdqYy8_JnJlbWFya3M9NkxhSzVZMlhNVHJrdUlubnZaSG1tYTdwZ0pvJmdyb3VwPWMzQmxaV1IzYkd0cQ
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liuran001/ssr/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ssr://MTk1LjEyMy4yMzguMzM6MTAwODY6YXV0aF9zaGExX3Y0OmNoYWNoYTIwOnRsczEuMl90aWNrZXRfYXV0aDpTekk1TjJnMVdqYy8_JnJlbWFya3M9NXBhdzVZcWc1WjJoTXpybnA3dmxpcWpwcTVqcGdKOCZncm91cD1jM0JsWldSM2JHdHE
 
-### Support or Contact
+### SSR订阅
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+http://share-shadowsocksr.herokuapp.com/subscribe?valid=1
+
+https://ssrshare.xyz/freessr
+
+https://raw.githubusercontent.com/ImLaoD/sub/master/ssrshare.com
+
+https://www.nutgeek.cn/newsubscribe/
+
+###联系我们
+Gmail:liuran567@gmail.com
+Telegram:liuran001(t.me/liuran001)
