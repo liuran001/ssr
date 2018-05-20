@@ -6,7 +6,7 @@
 
 ### FBI WARNING
 
-本站提供的所有信息仅供研究交流使用，请勿用于非法用途，请在使用本网站资源的24小时内关闭并删除
+本站提供的所有信息仅供研究交流使用，请勿用于非法用途，请在使用本网站资源的24小时内关闭并删除   
 本站不提供任何资源，所有节点来源于互联网（侵删）
 
 
@@ -121,5 +121,5 @@ https://raw.githubusercontent.com/ImLaoD/sub/master/ssrshare.com
 https://www.nutgeek.cn/newsubscribe/
 
 ### 联系我们
-Gmail:liuran567@gmail.com
+Gmail:liuran567@gmail.com   
 Telegram:[liuran001](t.me/liuran001)
